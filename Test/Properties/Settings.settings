@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Test.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="dd" Type="System.String" Scope="User">
+      <Value Profile="(Default)">这里赶写名称</Value>
+    </Setting>
+    <Setting Name="默认内容" Type="System.String" Scope="User">
+      <Value Profile="(Default)">这里赶写名称</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
